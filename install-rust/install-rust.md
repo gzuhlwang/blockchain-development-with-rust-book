@@ -6,7 +6,7 @@
 
 1、下载并运行[rustup-init.exe](https://www.rust-lang.org/zh-CN/install.html)，然后按照屏幕上的说明进行操作。
 
-![安装选项](C:\Users\cm\Desktop\paper on smart contract security\blockchain-development-with-rust-book\img\installation-opition.png)
+![rust安装导览](img\installation-opition.png)
 
 安装完成后，在命令提示符中输入以下命令测试是否安装成功：
 
@@ -30,5 +30,5 @@ Q1、按照上述安装好rust后，运行rust应用程序时，编译器报erro
 
 A：在windows上，Rust需要Visual C++构建工具2013或更新版本的支持。获取Visual C++构建工具最方便的办法是下载并安装[VC++ Build Tools](https://go.microsoft.com/fwlink/?LinkId=691126)，在安装的时候选择默认就可以了！然后再重新安装rust(rustup_init.exe)。
 
-![下面是安装的VC构建工具](C:\Users\cm\Desktop\paper on smart contract security\blockchain-development-with-rust-book\img\vs-tools.png)
+![下面是安装的VC构建工具](img\vs-tools.png)
 
