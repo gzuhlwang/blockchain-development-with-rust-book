@@ -36,7 +36,9 @@
 - [codechain](https://github.com/CodeChain-io/codechain):Kodebox团队主导的多资产管理系统
 - ...
 
+5、闪电网络
 
+- [rust-lightning](https://github.com/rust-bitcoin/rust-lightning)
 
 
 
