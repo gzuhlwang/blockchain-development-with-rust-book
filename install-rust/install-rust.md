@@ -24,6 +24,9 @@
 
 若上述命令都能输出对应的软件版本，恭喜您，rust安装成功。
 
+- rustc是Rust的编译器。通常，我们让Cargo调用编译器，但有时直接运行rustc也很有用。
+- cargo是Rust的编译管理器，包管理器和通用工具。您可以使用Cargo来新建一个项目，构建和运行程序以及管理程序依赖的任何外部库。
+
 ## 故障排错
 
 Q1、按照上述安装好rust后，运行rust应用程序时，编译器报error: linker `link.exe` not found 。
