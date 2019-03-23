@@ -45,3 +45,7 @@
 
 - [Tari ](https://github.com/tari-project/tari)【Monero layer 2项目，Tari Labs团队出品】
 
+
+
+更多项目移步[Cryptocurrencies written in Rust](https://www.reddit.com/r/rust/comments/a93dv8/cryptocurrencies_written_in_rust/)
+
